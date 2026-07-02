@@ -1,6 +1,6 @@
 # CWC AI Trading Skill Challenge Example Template
 
-This repository provides an official example Skill template for the CWC AI Trading Skill Challenge.
+This repository provides an  example Skill template for the CWC AI Trading Skill Challenge.
 
 Participants may use this repository as a reference when preparing and submitting their own trading strategy Skill. The example demonstrates how to describe a strategy in a clear, reproducible, and reviewable format.
 
@@ -41,11 +41,11 @@ cwc-trading-skill-template/
 
 ## How To Use
 
-1. Read `SKILL.md` as the official example template.
+1. Read `SKILL.md` as the  example template.
 2. Copy the structure into your own public GitHub repository.
 3. Replace the strategy logic, parameters, risks, and output format with your own trading Skill.
 4. Make sure your GitHub repository is public and accessible.
-5. Submit your public GitHub link through the official CWC activity form.
+5. Submit your public GitHub link through the  CWC activity form.
 
 ## Submission Checklist
 
