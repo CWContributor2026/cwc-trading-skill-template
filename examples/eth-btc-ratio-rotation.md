@@ -1,6 +1,6 @@
 # Example: ETH/BTC Ratio Rotation
 
-This file contains the full example Skill content for participants who want to create their own strategy submission based on the official format.
+This file contains the full example Skill content for participants who want to create their own strategy submission based on the reference format.
 
 For the canonical version, see [`../SKILL.md`](../SKILL.md).
 
