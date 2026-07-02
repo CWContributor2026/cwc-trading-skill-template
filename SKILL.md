@@ -1,7 +1,7 @@
 ---
 name: eth-btc-ratio-rotation
 description: >
-   example Skill for the CWC AI Trading Skill Challenge.
+  example Skill for the CWC AI Trading Skill Challenge.
   This Skill demonstrates a transparent ETH/BTC ratio rotation strategy that can be used as a reference
   structure for user submissions. It monitors the ETH/BTC ratio trend to identify whether market risk
   preference is favoring ETH or BTC, and provides a rules-based rotation framework.
@@ -9,7 +9,7 @@ description: >
 
 # ETH/BTC Ratio Rotation Strategy
 
->  example template for the CWC AI Trading Skill Challenge.
+> example template for the CWC AI Trading Skill Challenge.
 > This example is designed to show how a trading Skill can be structured, reviewed, and executed by an AI Agent.
 
 ## 1. Skill Name
@@ -186,7 +186,7 @@ https://github.com/<your-account>/<your-skill-repository>
 
 ## 12. Disclaimer
 
-This Skill is an  example template for the CWC AI Trading Skill Challenge and is provided for educational and demonstration purposes only.
+This Skill is an example template for the CWC AI Trading Skill Challenge and is provided for educational and demonstration purposes only.
 
 It does not represent a commitment that the strategy will be listed, supported, executed, or productized by CoinW. It does not constitute investment advice or a guarantee of returns.
 
