@@ -1,4 +1,4 @@
-# CWC Trading Skill Official Example Template
+# CWC AI Trading Skill Challenge Example Template
 
 This repository provides an official example Skill template for the CWC AI Trading Skill Challenge.
 
